@@ -1,6 +1,4 @@
-# KAIST_Quant-and-Factor-Investment
-
-1. Dividend Yield가 Market Excess Return을 예측하는지에 대한 검증
+# Dividend Yield가 Market Excess Return을 예측하는지에 대한 검증
 - M. G. Gordon의 Dividend Growth Model을 기초로 하여 수행
 - 지금 시점에서 다음날에 지급되는 배당을 D_t 라하면, g라는 일정한 성장률로 매기마다 성장한다고 가정한다면, 
   D_t  (1+g)의 비율로 배당은 성장할 것이고 이를 t-1시점에 현가로 할인을 한 가격은 다음과 같은 식으로 표현될 것임
